@@ -1,9 +1,13 @@
 <div align="center">
 <img src="https://user-images.githubusercontent.com/74750414/167504857-4129cbc1-2d10-4478-be39-3c1a3bee2dbc.gif" align="center" style="width: 100%" />
 </div>  
-  
+
+
 
 ### <div align="center">I'm Shivam, a full-time mobile app developer 👨‍💻 working remotely since 2019 🚀</div>  
+
+
+<div align="center"><a href="https://www.buymeacoffee.com/smishra" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a></div>
   
 
 - 🔭 I’m currently working on [otp_pin_field](https://github.com/shivbo96/otp_pin_field), [page_flip](https://github.com/shivbo96/page_flip), [ flutter_okta_auth_sdk](https://github.com/shivbo96/flutter_okta_auth_sdk)  
