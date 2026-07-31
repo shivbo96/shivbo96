@@ -1,113 +1,168 @@
 <div align="center">
-<img src="https://user-images.githubusercontent.com/74750414/167504857-4129cbc1-2d10-4478-be39-3c1a3bee2dbc.gif" align="center" style="width: 100%" />
-</div>  
 
+# 👋 Hi, I'm Shivam Mishra
 
+### 🚀 Senior Software Engineer • Flutter Expert • Open Source Maintainer • Building **Routix**
 
-### <div align="center">I'm Shivam, a full-time mobile app developer 👨‍💻 working remotely since 2019 🚀</div>  
+Building developer tools, scalable mobile apps, backend systems, and AI-powered products.
 
+<p>
+<a href="https://github.com/shivbo96"><img src="https://img.shields.io/github/followers/shivbo96?label=Followers&style=for-the-badge"/></a>
+<a href="https://github.com/shivbo96?tab=repositories"><img src="https://img.shields.io/badge/Public%20Repos-50+-blue?style=for-the-badge"/></a>
+<a href="https://routix.link"><img src="https://img.shields.io/badge/Routix-Live-success?style=for-the-badge"/></a>
+</p>
 
-<div align="center"><a href="https://www.buymeacoffee.com/smishra" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a></div>
-  
+</div>
 
-- 🔭 I’m currently working on [otp_pin_field](https://github.com/shivbo96/otp_pin_field), [page_flip](https://github.com/shivbo96/page_flip), [ flutter_okta_auth_sdk](https://github.com/shivbo96/flutter_okta_auth_sdk)  
-  
+---
 
-- 🌱 I’m currently learning more and more Flutter  
-  
+# 💫 About Me
 
-- ❓ Ask me about anything related to flutter and  mobile development related technologies  
-  
+```dart
+class ShivamMishra {
+  final role = "Senior Software Engineer";
+  final experience = "5+ Years";
+  final location = "Noida, India 🇮🇳";
 
-- ⚡ Fun fact: I use tabs over spaces  
-  
+  final currentFocus = [
+    "Flutter",
+    "Backend Engineering",
+    "AI",
+    "System Design",
+    "Open Source"
+  ];
 
-<br/>  
+  final building = "Routix";
+}
+```
+
+- 📱 Building high-performance cross-platform applications with **Flutter**
+- 🚀 Founder & Developer of **Routix**, a smart deep linking platform
+- ⚙️ Designing scalable backend systems using **Node.js, PostgreSQL & Redis**
+- 🤖 Exploring **AI, LLMs, RAG and automation**
+- ❤️ Passionate about open source and developer experience
+
+---
+
+# 🚀 Featured Project
+
+## 🌐 Routix
+
+**Enterprise-grade Deep Linking & Smart URL Infrastructure**
+
+✨ Features
+
+- Smart Links
+- Deep Linking
+- Deferred Deep Linking
+- QR Code Platform
+- Analytics Dashboard
+- REST APIs
+- Flutter SDK
+- React Native SDK
+- Custom Domains
+- Event Tracking
+
+> **Building the future of mobile attribution & deep linking.**
+
+---
+
+# 📦 Open Source Projects
+
+| Project | Description |
+|----------|-------------|
+| 🔐 **flutter_okta_auth_sdk** | Okta Authentication SDK for Flutter |
+| 📖 **page_flip** | Beautiful page flip animation widget |
+| 🔢 **otp_pin_field** | Animated & customizable OTP input widget |
+| 📅 **google_meet_sdk** | Google Meet & Calendar integration |
+| 📄 **platform_metadata** | Read native Android & iOS metadata |
+
+---
+
+# 🛠 Tech Stack
+
+### 📱 Mobile
+
+<p>
+<img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,swift,androidstudio,firebase"/>
+</p>
+
+### ⚙️ Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mongodb,redis,python"/>
+</p>
+
+### ☁️ Cloud & DevOps
+
+<p>
+<img src="https://skillicons.dev/icons?i=docker,aws,gcp,nginx,git,githubactions"/>
+</p>
+
+### 🤖 AI
+
+<p>
+<img src="https://skillicons.dev/icons?i=python"/>
+</p>
+
+Currently exploring:
+
+- Ollama
+- RAG
+- Vector Databases
+- AI Agents
+- LLM Applications
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=shivbo96&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=shivbo96&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivbo96&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🎯 2026 Goals
+
+- 🚀 Grow Routix into a global SaaS platform
+- 📦 Publish more open-source Flutter packages
+- ⚙️ Master distributed backend architecture
+- 🤖 Build AI-powered developer tools
+- 🌍 Contribute more to the open-source ecosystem
+
+---
+
+# 🤝 Let's Connect
+
+<p align="center">
+
+<a href="https://linkedin.com/in/shivam-mishra-b14429141">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/shivbo96">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://routix.link">
+<img src="https://img.shields.io/badge/Routix-000000?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+
+</p>
+
+---
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=shivbo96&&style=flat-square" align="center" />
-</div>  
 
+### 💡 *"I enjoy building products that solve real-world problems, delight developers, and scale to millions of users."*
 
-## My Skill Set  
-<table><tr><td valign="top" width="33%">
+⭐ **If you like my work, consider starring one of my repositories!**
 
-
-
-### Frontend  
-<div align="center">  
-<a href="https://dart.dev/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dartlang-icon.svg" alt="Dart" height="50" /></a>  
-<a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>  
-<a href="https://kotlinlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kotlinlang-icon.svg" alt="Kotlin" height="50" /></a>  
-<a href="https://www.android.com/intl/en_in/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/android-original-wordmark.svg" alt="Android" height="50" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-<a href="https://firebase.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="50" /></a>  
-<a href="https://flutter.dev/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flutterio-icon.svg" alt="Flutter" height="50" /></a>  
-<a href="https://developer.apple.com/swift/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/swift-original-wordmark.svg" alt="Swift" height="50" /></a>  
-<a href="https://about.gitlab.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gitlab.svg" alt="GitLab" height="50" /></a>  
-<a href="https://mui.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mui.png" alt="Material UI" height="50" /></a>  
-<a href="https://www.adobe.com/in/products/xd.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobexd.png" alt="Adobe XD" height="50" /></a>  
 </div>
-
-</td><td valign="top" width="33%">
-
-
-
-### Backend  
-<div align="center">  
-<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>  
-<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-<a href="https://firebase.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="50" /></a>  
-<a href="https://www.nginx.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg" alt="Nginx" height="50" /></a>  
-</div>
-
-</td><td valign="top" width="33%">
-
-
-
-### DevOps  
-<div align="center">  
-<a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" /></a>  
-<a href="https://cloud.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/google_cloud-icon.svg" alt="GCP" height="50" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-</div>
-
-</td></tr></table>  
-
-<br/>  
-
-
-## Connect with me  
-<div align="center">
-<a href="https://github.com/shivbo96" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/shivam-mishra-b14429141" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://github.com/shivbo96" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>  
-</div>  
-  
-
-<br/>  
-
-
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=shivbo96&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-<br/>  
-<br/>  
-
-<br/>  
-
-
-  
-
-<br/>  
-
-
-<br />
